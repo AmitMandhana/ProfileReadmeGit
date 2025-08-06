@@ -125,7 +125,7 @@ const amitMandhana = {
 - 📱 Geolocation-based notifications for nearby users (<1km radius)
 
 ### 🏥 [Diabetic Retinopathy Detection Study](https://drive.google.com/file/d/1klXdSAiWhhFYquiTl6OlNVoJDt7o3gTU/view?usp=sharing)
-[![Research Paper](https://img.shields.io/badge/Research%20Paper-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1klXdSAiWhhFYquiTl6OlNVoJDt7o3gTU/view?usp=sharing)
+[![FlowChart](https://img.shields.io/badge/Research%20Paper-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1klXdSAiWhhFYquiTl6OlNVoJDt7o3gTU/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmitMandhana/DR_Detection)
 
 **Tech Stack:** Python, OpenCV, CLAHE, Machine Learning  
