@@ -199,52 +199,89 @@ const amitMandhana = {
 
 ## 🏅 Certifications Showcase
 
-<div class="slider-container" style="overflow: hidden; width: 100%; position: relative;">
-  <div class="slider" style="display: flex; animation: slide 30s linear infinite;">
-    <!-- Certificate 1 -->
-    <div class="slide" style="min-width: 300px; margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Certificate-Graph_Algorithms_AlgoUniversity-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Graph Algorithms" />
-    </div>
-    <!-- Certificate 2 -->
-    <div class="slide" style="min-width: 300px; margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Certificate-MERN_Stack_Development_SimpliLearn-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="MERN Stack Development" />
-    </div>
-    <!-- Certificate 3 -->
-    <div class="slide" style="min-width: 300px; margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Certificate-Airline_Analytics_British_Airways-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Airline Analytics" />
-    </div>
-    <!-- Certificate 4 -->
-    <div class="slide" style="min-width: 300px; margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Certificate-Web_Development_Bootcamp-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Web Development Bootcamp" />
-    </div>
-    <!-- Certificate 5 -->
-    <div class="slide" style="min-width: 300px; margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Certificate-Machine_Learning_Specialization-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Machine Learning Specialization" />
-    </div>
-    <!-- Duplicate certificates for continuous effect -->
-    <div class="slide" style="min-width: 300px; margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Certificate-Graph_Algorithms_AlgoUniversity-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Graph Algorithms" />
-    </div>
-    <div class="slide" style="min-width: 300px; margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Certificate-MERN_Stack_Development_SimpliLearn-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="MERN Stack Development" />
+<div align="center">
+  <div class="certificate-slider" style="overflow: hidden; max-width: 900px; margin: 0 auto;">
+    <div class="certificate-slide-track" style="display: flex; animation: scroll 40s linear infinite; width: calc(250px * 14);">
+      <!-- Certificate Images - First Set -->
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2VydGlmaWNhdGV8ZW58MHx8MHx8fDA%3D" width="250" height="180" alt="Graph Algorithms Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Graph Algorithms - AlgoUniversity</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1606159068539-43f36b99d1b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2VydGlmaWNhdGV8ZW58MHx8MHx8fDA%3D" width="250" height="180" alt="MERN Stack Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">MERN Stack Development - SimpliLearn</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1589330694653-ded6df03f754?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Airline Analytics Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Airline Analytics - British Airways</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1517842645767-c639042777db?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Web Development Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Web Development Bootcamp</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1574607383476-f517f260d30b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Machine Learning Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Machine Learning Specialization</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1571867424488-4565932edb41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Python Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Python for Data Science</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Cloud Computing Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Cloud Computing Fundamentals</p>
+      </div>
+      
+      <!-- Certificate Images - Second Set (Duplicate for infinite scroll effect) -->
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2VydGlmaWNhdGV8ZW58MHx8MHx8fDA%3D" width="250" height="180" alt="Graph Algorithms Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Graph Algorithms - AlgoUniversity</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1606159068539-43f36b99d1b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y2VydGlmaWNhdGV8ZW58MHx8MHx8fDA%3D" width="250" height="180" alt="MERN Stack Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">MERN Stack Development - SimpliLearn</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1589330694653-ded6df03f754?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Airline Analytics Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Airline Analytics - British Airways</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1517842645767-c639042777db?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Web Development Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Web Development Bootcamp</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1574607383476-f517f260d30b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Machine Learning Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Machine Learning Specialization</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1571867424488-4565932edb41?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Python Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Python for Data Science</p>
+      </div>
+      <div class="certificate-slide" style="width: 250px; height: 180px; margin: 0 15px;">
+        <img src="https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fGNlcnRpZmljYXRlfGVufDB8fDB8fHww" width="250" height="180" alt="Cloud Computing Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        <p style="font-size: 12px; margin-top: 5px; font-weight: bold;">Cloud Computing Fundamentals</p>
+      </div>
     </div>
   </div>
 </div>
 
 <style>
-  @keyframes slide {
+  @keyframes scroll {
     0% {
       transform: translateX(0);
     }
     100% {
-      transform: translateX(-50%);
+      transform: translateX(calc(-250px * 7));
     }
   }
 </style>
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1oApRBWaoFI8c2NCtAsbiVnAeeFGWM4OO/view" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Certifications-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View All Certifications" />
+<div align="center" style="margin-top: 20px;">
+  <a href="https://drive.google.com/file/d/1oApRBWaoFI8c2NCtAsbiVnAeeFGWM4OO/view" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #4285F4; color: white; text-decoration: none; font-weight: bold; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+    <span style="display: flex; align-items: center; justify-content: center;">
+      <svg style="margin-right: 8px;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+      View All Certifications
+    </span>
   </a>
 </div>
 
