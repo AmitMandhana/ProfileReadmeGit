@@ -200,19 +200,36 @@ const amitMandhana = {
 ## 🏅 Certifications
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1oApRBWaoFI8c2NCtAsbiVnAeeFGWM4OO/view" target="_blank">
-    <div style="position: relative; width: 500px; height: 250px; margin: 0 auto; overflow: hidden; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: all 0.3s ease;">
-      <img src="https://images.unsplash.com/photo-1546521343-4eb2c01aa44b?w=800&auto=format&fit=crop&q=80&ixlib=rb-4.0.3" width="500" height="250" alt="Certificates Collection" style="object-fit: cover; width: 100%; height: 100%;" />
-      <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.7)); display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px; text-align: center;">
-        <h2 style="color: white; font-size: 28px; margin-bottom: 15px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">View My Certificates</h2>
-        <p style="color: white; font-size: 16px; max-width: 80%; text-shadow: 1px 1px 2px rgba(0,0,0,0.5);">Explore my professional certifications in Full Stack Development, AI/ML, and more</p>
-        <div style="margin-top: 20px; background-color: #4285F4; color: white; padding: 10px 24px; border-radius: 30px; font-weight: bold; display: inline-flex; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-          <svg style="margin-right: 8px;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
-          View Certificates
-        </div>
-      </div>
+  <div style="display: flex; align-items: center; justify-content: center; max-width: 800px; margin: 0 auto; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.1);">
+    <!-- Certificate Image -->
+    <div style="flex: 0 0 200px; margin-right: 20px;">
+      <img src="https://images.unsplash.com/photo-1589330694653-ded6df03f754?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3" width="180" height="130" alt="Certificate" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border: 4px solid white;" />
     </div>
-  </a>
+    
+    <!-- Quote and Link -->
+    <div style="flex: 1;">
+      <blockquote style="font-style: italic; color: #333; font-size: 18px; margin-bottom: 15px; position: relative; padding-left: 20px; border-left: 4px solid #4285F4;">
+        "Certifications are not just pieces of paper; they are evidence of your commitment to excellence and continuous growth in your professional journey."      
+      </blockquote>
+      
+      <!-- Flowchart-style visualization -->
+      <div style="display: flex; align-items: center; margin: 15px 0; font-size: 14px;">
+        <div style="background: #4285F4; color: white; padding: 8px 12px; border-radius: 4px; margin-right: 10px;">Knowledge</div>
+        <div style="margin: 0 5px;">→</div>
+        <div style="background: #EA4335; color: white; padding: 8px 12px; border-radius: 4px; margin-right: 10px;">Certification</div>
+        <div style="margin: 0 5px;">→</div>
+        <div style="background: #34A853; color: white; padding: 8px 12px; border-radius: 4px;">Opportunity</div>
+      </div>
+      
+      <!-- View Button -->
+      <a href="https://drive.google.com/file/d/1oApRBWaoFI8c2NCtAsbiVnAeeFGWM4OO/view" target="_blank" style="display: inline-block; background-color: #4285F4; color: white; padding: 10px 20px; border-radius: 30px; text-decoration: none; font-weight: bold; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: all 0.3s ease;">
+        <span style="display: flex; align-items: center;">
+          <svg style="margin-right: 8px;" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.95-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z"/></svg>
+          View My Certificates
+        </span>
+      </a>
+    </div>
+  </div>
 </div>
 
 ---
