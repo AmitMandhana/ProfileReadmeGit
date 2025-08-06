@@ -1,17 +1,25 @@
 # Hi there, I'm Amit Mandhana! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9AFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9AFF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;Problem+Solver" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-frontend-steel-gamma.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-mandhana)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AmitMandhana/)
-  [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/amitmandhana19)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandhana.amit19@gmail.com)
-
+<div align="center" style="margin-top: 20px;">
+  <a href="https://portfolio-frontend-steel-gamma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/amit-mandhana" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/AmitMandhana/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/amitmandhana19" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="mailto:mandhana.amit19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
 ---
@@ -87,20 +95,7 @@ const amitMandhana = {
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AmitMandhana&show_icons=true&theme=tokyonight&border_radius=16" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmitMandhana&theme=tokyonight&border_radius=16" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitMandhana&layout=compact&theme=tokyonight&border_radius=16&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AmitMandhana&theme=tokyo-night&border_radius=16" alt="Contribution Graph" />
-</div>
 
 ---
 
@@ -165,7 +160,7 @@ const amitMandhana = {
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Achievements
 
 ### 🎯 Competitive Programming
 - 🥇 **Winner** of StatusCode1 Hackathon (Wildlife Track)
@@ -174,25 +169,83 @@ const amitMandhana = {
 - 🌟 **3★ Coder** on CodeChef
 - 🚀 **Global Rank 81** in CodeChef Starters 147 Div 3
 
-### 📜 Certifications
-[![View Certifications](https://img.shields.io/badge/View%20All%20Certifications-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1oApRBWaoFI8c2NCtAsbiVnAeeFGWM4OO/view)
-
-- 📊 **Graph Algorithms** - AlgoUniversity
-- 💻 **MERN Stack Development** - SimpliLearn  
-- ✈️ **Airline Analytics** - British Airways
-
 ---
 
-## 📈 Coding Stats
+## 📈 Coding Profiles
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <div style="text-align: center; margin: 10px;">
+    <h3>LeetCode</h3>
+    <a href="https://leetcode.com/u/AmitMandhana/" target="_blank">
+      <img src="https://leetcode.card.workers.dev/AmitMandhana?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" width="400" />
+    </a>
+    <p>⭐ <b>450+ Problems</b> solved on LeetCode</p>
+  </div>
   
-  [![LeetCode Stats](https://leetcode.card.workers.dev/AmitMandhana?theme=dark&font=baloo&extension=null)](https://leetcode.com/u/AmitMandhana/)
-  
+  <div style="text-align: center; margin: 10px;">
+    <h3>CodeChef</h3>
+    <a href="https://www.codechef.com/users/amitmandhana19" target="_blank">
+      <img src="https://img.shields.io/badge/CodeChef-3%E2%98%85%20Coder-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+    </a>
+    <p>🌟 <b>3★ Coder</b> on CodeChef (Global Rank 81 in Starters 147 Div 3)</p>
+  </div>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AmitMandhana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+## 🏅 Certifications Showcase
+
+<div class="slider-container" style="overflow: hidden; width: 100%; position: relative;">
+  <div class="slider" style="display: flex; animation: slide 30s linear infinite;">
+    <!-- Certificate 1 -->
+    <div class="slide" style="min-width: 300px; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Certificate-Graph_Algorithms_AlgoUniversity-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Graph Algorithms" />
+    </div>
+    <!-- Certificate 2 -->
+    <div class="slide" style="min-width: 300px; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Certificate-MERN_Stack_Development_SimpliLearn-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="MERN Stack Development" />
+    </div>
+    <!-- Certificate 3 -->
+    <div class="slide" style="min-width: 300px; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Certificate-Airline_Analytics_British_Airways-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Airline Analytics" />
+    </div>
+    <!-- Certificate 4 -->
+    <div class="slide" style="min-width: 300px; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Certificate-Web_Development_Bootcamp-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Web Development Bootcamp" />
+    </div>
+    <!-- Certificate 5 -->
+    <div class="slide" style="min-width: 300px; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Certificate-Machine_Learning_Specialization-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Machine Learning Specialization" />
+    </div>
+    <!-- Duplicate certificates for continuous effect -->
+    <div class="slide" style="min-width: 300px; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Certificate-Graph_Algorithms_AlgoUniversity-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Graph Algorithms" />
+    </div>
+    <div class="slide" style="min-width: 300px; margin: 0 15px;">
+      <img src="https://img.shields.io/badge/Certificate-MERN_Stack_Development_SimpliLearn-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="MERN Stack Development" />
+    </div>
+  </div>
+</div>
+
+<style>
+  @keyframes slide {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+</style>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1oApRBWaoFI8c2NCtAsbiVnAeeFGWM4OO/view" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20Certifications-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View All Certifications" />
+  </a>
 </div>
 
 ---
