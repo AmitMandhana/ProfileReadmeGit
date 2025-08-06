@@ -293,19 +293,20 @@ const amitMandhana = {
 Learning:
   - Advanced System Design
   - Microservices Architecture  
-  - Cloud Computing (AWS/GCP)
-  - Machine Learning & AI
+  - Cloud Computing (AWS)
+  - Machine Learning & AI Particularly Image Processing
 
 Open_to:
   - Full Stack Development Roles
-  - Software Engineering Internships
+  - Software Engineering Roles
+  - Freelancing Projects
   - Open Source Collaborations
   - Hackathon Partnerships
 
-2024_Goals:
-  - Contribute to major open source projects
+2026_Goals:
+  - Contribute to real world problems
   - Build more AI-powered applications
-  - Achieve 5★ on CodeChef
+  - Achieve a Great Placement Opportunity
   - Launch my own tech startup
 ```
 
